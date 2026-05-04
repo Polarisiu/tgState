@@ -1,4 +1,5 @@
 # 来源 (https://www.nodeseek.com/post-711677-1)
+# 自用
 # tgState Rust 二开增强版
 
 基于 [tgstate-rust](https://github.com/buyi06/tgstate-rust) 二次开发的私有文件存储系统。项目保留原版“以 Telegram 频道作为文件存储后端、单文件部署、网页配置、短链分享、PicGo 兼容”等核心能力，并在此基础上补充了 S3 兼容存储、WebDAV 挂载、逻辑文件夹、私密可见性、数据库备份恢复、图集分享和更完整的管理后台体验。
